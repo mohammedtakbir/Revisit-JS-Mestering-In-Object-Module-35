@@ -68,11 +68,11 @@
 
 //* window binding
 // "use strict"
-function printName(){
-    // console.log(this.name)
-    console.log(window === this)
-}
-const person = {
-    name: 'sakib'
-}
-printName()
+// function printName(){
+//     // console.log(this.name)
+//     console.log(window === this)
+// }
+// const person = {
+//     name: 'sakib'
+// }
+// printName()
